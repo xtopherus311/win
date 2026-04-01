@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "win",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "24bbd569-92ef-42ce-9339-668e37ed8237",
+			"database_name": "derivation-win"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
